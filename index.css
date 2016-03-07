@@ -1,0 +1,30 @@
+body {
+  padding: 16px;
+}
+
+h1 {
+  color: #888;
+  font-weight: 300;
+  font-size: 64px;
+}
+
+.main-apps {
+  margin-top: 20%;
+  height: 300px;
+}
+
+.main-apps a {
+  font-size: 36px;
+  margin: 0 24px;
+}
+
+.main-apps img {
+  max-height: 150px;
+  margin: 0 auto;
+}
+
+img.mac-svg {
+  margin-top: -15px;
+  margin-bottom: 15px;
+}
+
